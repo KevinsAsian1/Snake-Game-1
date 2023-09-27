@@ -1,4 +1,4 @@
-node('flute-srv2') 
+node('flute-srv1') 
 {
     def app
     stage('Cloning Git')
