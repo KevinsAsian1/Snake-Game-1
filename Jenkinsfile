@@ -1,4 +1,4 @@
-node('ubuntu-appserver') 
+node('fl-ubsrv-3') 
 {
     def app
     stage('Cloning Git')
