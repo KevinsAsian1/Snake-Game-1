@@ -1,7 +1,7 @@
 version: '3.3'
 services:
   snake:
-    image: 'kevinsasian/game_docker_repo'
+    image: 'kevinsasian/game_docker_repo:latest'
     environment:
       - 'Port:3000'
     ports:
